@@ -1,17 +1,19 @@
 node_modules
 
 # Activity Solutions
-#Solved
+Solved
 #03-Algorithms
 
 # Activities
-
+04-Web-APIs/01-Activities/03-Timers
+04-Web-APIs/01-Activities/04-localStorage
+04-Web-APIs/01-Activities/05-True-or-False-Game
 
 # Current Modules
-03-JavaScript/05-Module-Project/main
+04-Web-APIs/05-Module-Project/main
 
 # Previous HW
-02-Advanced-CSS/02-Challenge/Main
+03-JavaScript/02-Challenge/Main
 
 # Current HW
-03-JavaScript/02-Challenge/Main
+04-Web-APIs/02-Challenge/Main
