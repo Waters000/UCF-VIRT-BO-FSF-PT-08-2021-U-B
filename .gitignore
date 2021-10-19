@@ -1,17 +1,19 @@
 node_modules
 
 # Activity Solutions
-#Solved
+Solved
 #03-Algorithms
 
 # Activities
-
+10-OOP/01-Activities/03-RPG-Prototypes
+10-OOP/01-Activities/04-RPG-Classes
+10-OOP/01-Activities/05-RPG-TDD
 
 # Current Modules
-09-NodeJS/05-Module-Project/main
+10-OOP/05-Module-Project/main
 
 # Previous HW
-
+09-NodeJS/02-Challenge/Main
 
 # Current HW
-09-NodeJS/02-Challenge/Main
+10-OOP/02-Challenge/Main
