@@ -1,18 +1,19 @@
 node_modules
 
 # Activity Solutions
-#Solved
+Solved
 #03-Algorithms
 
 # Activities
-
-
+14-MVC/01-Activities/03-Library-Books
+14-MVC/01-Activities/04-Read-Books
+14-MVC/01-Activities/05-Count-Visits
 
 # Current Modules
-13-ORM/05-Module-Project/main
+14-MVC/05-Module-Project/main
 
 # Previous HW
-12-SQL/02-Challenge/Main
+13-ORM/02-Challenge/Main
 
 # Current HW
-13-ORM/02-Challenge/Main
+14-MVC/02-Challenge/Main
